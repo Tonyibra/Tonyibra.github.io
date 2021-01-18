@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Tonyibra.github.io/static/css/main.2ca10e22.chunk.css",
-    "main.js": "/Tonyibra.github.io/static/js/main.f15966a3.chunk.js",
-    "main.js.map": "/Tonyibra.github.io/static/js/main.f15966a3.chunk.js.map",
-    "runtime-main.js": "/Tonyibra.github.io/static/js/runtime-main.32094d3b.js",
-    "runtime-main.js.map": "/Tonyibra.github.io/static/js/runtime-main.32094d3b.js.map",
-    "static/js/2.4ea967e5.chunk.js": "/Tonyibra.github.io/static/js/2.4ea967e5.chunk.js",
-    "static/js/2.4ea967e5.chunk.js.map": "/Tonyibra.github.io/static/js/2.4ea967e5.chunk.js.map",
-    "static/js/3.21e1527d.chunk.js": "/Tonyibra.github.io/static/js/3.21e1527d.chunk.js",
-    "static/js/3.21e1527d.chunk.js.map": "/Tonyibra.github.io/static/js/3.21e1527d.chunk.js.map",
+    "main.css": "/Tonyibra.github.io/static/css/main.3b85b8af.chunk.css",
+    "main.js": "/Tonyibra.github.io/static/js/main.9314c046.chunk.js",
+    "main.js.map": "/Tonyibra.github.io/static/js/main.9314c046.chunk.js.map",
+    "runtime-main.js": "/Tonyibra.github.io/static/js/runtime-main.5ef932c2.js",
+    "runtime-main.js.map": "/Tonyibra.github.io/static/js/runtime-main.5ef932c2.js.map",
+    "static/js/2.eee1c2ff.chunk.js": "/Tonyibra.github.io/static/js/2.eee1c2ff.chunk.js",
+    "static/js/2.eee1c2ff.chunk.js.map": "/Tonyibra.github.io/static/js/2.eee1c2ff.chunk.js.map",
+    "static/js/3.b9652343.chunk.js": "/Tonyibra.github.io/static/js/3.b9652343.chunk.js",
+    "static/js/3.b9652343.chunk.js.map": "/Tonyibra.github.io/static/js/3.b9652343.chunk.js.map",
     "index.html": "/Tonyibra.github.io/index.html",
-    "static/css/main.2ca10e22.chunk.css.map": "/Tonyibra.github.io/static/css/main.2ca10e22.chunk.css.map",
-    "static/js/2.4ea967e5.chunk.js.LICENSE.txt": "/Tonyibra.github.io/static/js/2.4ea967e5.chunk.js.LICENSE.txt",
+    "static/css/main.3b85b8af.chunk.css.map": "/Tonyibra.github.io/static/css/main.3b85b8af.chunk.css.map",
+    "static/js/2.eee1c2ff.chunk.js.LICENSE.txt": "/Tonyibra.github.io/static/js/2.eee1c2ff.chunk.js.LICENSE.txt",
     "static/media/styles.css": "/Tonyibra.github.io/static/media/mainbackground.f7daab03.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.32094d3b.js",
-    "static/js/2.4ea967e5.chunk.js",
-    "static/css/main.2ca10e22.chunk.css",
-    "static/js/main.f15966a3.chunk.js"
+    "static/js/runtime-main.5ef932c2.js",
+    "static/js/2.eee1c2ff.chunk.js",
+    "static/css/main.3b85b8af.chunk.css",
+    "static/js/main.9314c046.chunk.js"
   ]
 }
