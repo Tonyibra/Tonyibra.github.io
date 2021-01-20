@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Tonyibra.github.io/static/css/main.c1386b4c.chunk.css",
-    "main.js": "/Tonyibra.github.io/static/js/main.f542c5d1.chunk.js",
-    "main.js.map": "/Tonyibra.github.io/static/js/main.f542c5d1.chunk.js.map",
+    "main.css": "/Tonyibra.github.io/static/css/main.5783c868.chunk.css",
+    "main.js": "/Tonyibra.github.io/static/js/main.1aa487ec.chunk.js",
+    "main.js.map": "/Tonyibra.github.io/static/js/main.1aa487ec.chunk.js.map",
     "runtime-main.js": "/Tonyibra.github.io/static/js/runtime-main.5ef932c2.js",
     "runtime-main.js.map": "/Tonyibra.github.io/static/js/runtime-main.5ef932c2.js.map",
-    "static/js/2.1b95dca5.chunk.js": "/Tonyibra.github.io/static/js/2.1b95dca5.chunk.js",
-    "static/js/2.1b95dca5.chunk.js.map": "/Tonyibra.github.io/static/js/2.1b95dca5.chunk.js.map",
+    "static/js/2.aebe555c.chunk.js": "/Tonyibra.github.io/static/js/2.aebe555c.chunk.js",
+    "static/js/2.aebe555c.chunk.js.map": "/Tonyibra.github.io/static/js/2.aebe555c.chunk.js.map",
     "static/js/3.b9652343.chunk.js": "/Tonyibra.github.io/static/js/3.b9652343.chunk.js",
     "static/js/3.b9652343.chunk.js.map": "/Tonyibra.github.io/static/js/3.b9652343.chunk.js.map",
     "index.html": "/Tonyibra.github.io/index.html",
-    "static/css/main.c1386b4c.chunk.css.map": "/Tonyibra.github.io/static/css/main.c1386b4c.chunk.css.map",
-    "static/js/2.1b95dca5.chunk.js.LICENSE.txt": "/Tonyibra.github.io/static/js/2.1b95dca5.chunk.js.LICENSE.txt",
+    "static/css/main.5783c868.chunk.css.map": "/Tonyibra.github.io/static/css/main.5783c868.chunk.css.map",
+    "static/js/2.aebe555c.chunk.js.LICENSE.txt": "/Tonyibra.github.io/static/js/2.aebe555c.chunk.js.LICENSE.txt",
     "static/media/styles.css": "/Tonyibra.github.io/static/media/mainbackground.f7daab03.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.5ef932c2.js",
-    "static/js/2.1b95dca5.chunk.js",
-    "static/css/main.c1386b4c.chunk.css",
-    "static/js/main.f542c5d1.chunk.js"
+    "static/js/2.aebe555c.chunk.js",
+    "static/css/main.5783c868.chunk.css",
+    "static/js/main.1aa487ec.chunk.js"
   ]
 }
