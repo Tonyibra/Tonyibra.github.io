@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "./static/css/main.05689486.chunk.css",
-    "main.js": "./static/js/main.2873de7b.chunk.js",
-    "main.js.map": "./static/js/main.2873de7b.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.75048aa9.js",
-    "runtime-main.js.map": "./static/js/runtime-main.75048aa9.js.map",
-    "static/js/2.eed2beff.chunk.js": "./static/js/2.eed2beff.chunk.js",
-    "static/js/2.eed2beff.chunk.js.map": "./static/js/2.eed2beff.chunk.js.map",
-    "static/js/3.53bdae61.chunk.js": "./static/js/3.53bdae61.chunk.js",
-    "static/js/3.53bdae61.chunk.js.map": "./static/js/3.53bdae61.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/main.05689486.chunk.css.map": "./static/css/main.05689486.chunk.css.map",
-    "static/js/2.eed2beff.chunk.js.LICENSE.txt": "./static/js/2.eed2beff.chunk.js.LICENSE.txt",
-    "static/media/moon-outline.1d93a65e.svg": "./static/media/moon-outline.1d93a65e.svg"
+    "main.css": "/static/css/main.0f9483b4.chunk.css",
+    "main.js": "/static/js/main.8428aeca.chunk.js",
+    "main.js.map": "/static/js/main.8428aeca.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fff1239a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fff1239a.js.map",
+    "static/js/2.4d41d1bf.chunk.js": "/static/js/2.4d41d1bf.chunk.js",
+    "static/js/2.4d41d1bf.chunk.js.map": "/static/js/2.4d41d1bf.chunk.js.map",
+    "static/js/3.c039487d.chunk.js": "/static/js/3.c039487d.chunk.js",
+    "static/js/3.c039487d.chunk.js.map": "/static/js/3.c039487d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0f9483b4.chunk.css.map": "/static/css/main.0f9483b4.chunk.css.map",
+    "static/js/2.4d41d1bf.chunk.js.LICENSE.txt": "/static/js/2.4d41d1bf.chunk.js.LICENSE.txt",
+    "static/media/LandingPage.css": "/static/media/bg.fffb436c.png",
+    "static/media/css.19c8605d.png": "/static/media/css.19c8605d.png",
+    "static/media/react.78e61144.png": "/static/media/react.78e61144.png",
+    "static/media/redux.7fec6369.png": "/static/media/redux.7fec6369.png",
+    "static/media/tony.b738815b.jpg": "/static/media/tony.b738815b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.75048aa9.js",
-    "static/js/2.eed2beff.chunk.js",
-    "static/css/main.05689486.chunk.css",
-    "static/js/main.2873de7b.chunk.js"
+    "static/js/runtime-main.fff1239a.js",
+    "static/js/2.4d41d1bf.chunk.js",
+    "static/css/main.0f9483b4.chunk.css",
+    "static/js/main.8428aeca.chunk.js"
   ]
 }
