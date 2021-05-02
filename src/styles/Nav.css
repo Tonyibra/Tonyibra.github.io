@@ -1,0 +1,23 @@
+.navbar {
+	display: flex;
+	justify-content: space-between;
+	padding: 0.8rem 0rem;
+	align-items: center;
+	width: 100%;
+	border-bottom: 1px solid #eee;
+	position: fixed;
+	z-index: 1000;
+
+	background-color: white;
+}
+.navbar strong {
+	font-weight: 300 !important;
+	margin: 0rem 1rem;
+}
+
+.mobile-menu {
+	color: #ff724c;
+	cursor: pointer;
+	margin: 0rem 0.5rem;
+	line-height: 0px;
+}
