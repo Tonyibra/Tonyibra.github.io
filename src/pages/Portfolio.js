@@ -1,9 +1,24 @@
 import React from "react";
-
+import { motion } from "framer-motion";
+const portfolioVariants = {
+	ltr: { opacity: 0, y: -500 },
+	anim: { opacity: 1, y: 0, transition: { duration: 0.5 } },
+	exit: {
+		opacity: 0,
+		y: 500,
+		transition: { ease: "easeInOut" },
+	},
+};
 const Portfolio = () => {
 	return (
 		<div className="resume-container">
-			<div className="subpage">
+			<motion.div
+				initial="ltr"
+				animate="anim"
+				variants={portfolioVariants}
+				exit="exit"
+				className="subpage"
+			>
 				<div className="resume-header">
 					<strong>Portfolio</strong>
 					<span>My Best Works</span>
@@ -48,7 +63,7 @@ const Portfolio = () => {
 						</li>
 					</ul>
 				</div>
-			</div>
+			</motion.div>
 		</div>
 	);
 };
