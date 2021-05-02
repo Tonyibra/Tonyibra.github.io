@@ -23,7 +23,7 @@ const Portfolio = () => {
 					<strong>Portfolio</strong>
 					<span>My Best Works</span>
 				</div>
-				<div className="filter-area">
+				{/* <div className="filter-area">
 					<ul className="filter-list">
 						<li>
 							<a className="filter-btn active" data-group="all">
@@ -46,7 +46,7 @@ const Portfolio = () => {
 							</a>
 						</li>
 					</ul>
-				</div>
+				</div> */}
 				<div className="grid-gallery">
 					<ul className="grid">
 						<li>

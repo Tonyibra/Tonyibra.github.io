@@ -430,4 +430,32 @@
 			url(https://static.turbosquid.com/Preview/2014/09/03__08_23_46/Cartoon_Earth_render_00.jpg40089351-9deb-4485-b874-31c0a7ddc2d4Original.jpg)
 				center center / cover no-repeat;
 	}
+	.form input {
+		width: 50%;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		margin-bottom: 20px;
+		padding: 0.5rem;
+		border: 1px solid #bbb;
+		border-radius: 0;
+		outline: 0;
+	}
+	form {
+		display: flex;
+		flex-direction: column;
+		height: 100%;
+		width: 100%;
+		justify-content: center;
+		align-items: center;
+	}
+	.form textarea {
+		width: 50%;
+		margin-bottom: 40px;
+	}
+	.form button {
+		width: 50%;
+		margin-bottom: 20px;
+	}
 }

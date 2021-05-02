@@ -9,6 +9,7 @@ import { Switch, Route, useLocation } from "react-router-dom";
 import { AnimatePresence } from "framer-motion";
 import Resume from "./pages/Resume";
 import projects from "./pages/Portfolio";
+import Contact from "./pages/Contact";
 
 function App() {
 	const [mobile, setMobile] = useState(false);
@@ -28,6 +29,7 @@ function App() {
 					<Route path="/about" component={AboutMe} exact />
 					<Route path="/resume" component={Resume} exact />
 					<Route path="/projects" component={projects} exact />
+					<Route path="/contact" component={Contact} exact />
 				</Switch>
 			</AnimatePresence>
 		</div>
